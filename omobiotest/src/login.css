@@ -1,0 +1,39 @@
+.heading {
+  color: firebrick;
+  font-size: 70px;
+  margin-bottom: 10%;
+  margin-top: 2%;
+}
+
+#email-lbl,
+#pw-lbl {
+  font-size: 30px;
+  align-items: center;
+  margin: 10px 0;
+}
+
+#email,
+#pw {
+  margin: 10px 0;
+
+  width: 500px;
+  height: 40px;
+}
+
+#email {
+  margin-left: 85px;
+}
+#pw {
+  margin-left: 35px;
+}
+
+#signup-btn {
+  background-color: "##008CBA";
+  margin-top: 2%;
+  height: 40px;
+  width: 100px;
+  justify-content: "center";
+  align-items: "center";
+  width: "70%";
+  border-radius: 10px;
+}
